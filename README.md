@@ -5,7 +5,7 @@
 
 <h3 align="center"> بک اند کار 👨🏻‍💻 با فریمورک لاراول </h3>
 
-مهارت ها و ابزارهایی که استفاده می کنم
+# مهارت ها و ابزارهایی که استفاده می کنم:
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
